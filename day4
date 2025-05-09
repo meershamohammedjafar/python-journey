@@ -1,0 +1,3 @@
+something = 'python is awesome!'
+print(something.title(), something.strip(), 
+      something[0:len(something):2])
